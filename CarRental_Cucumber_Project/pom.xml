@@ -67,5 +67,8 @@
     
       
   </dependencies>
-
+<properties>
+  <sonar.organization>bhavana-mugala</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
 </project>
